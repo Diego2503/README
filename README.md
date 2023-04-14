@@ -13,11 +13,10 @@ El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los de
 
 
 **Posiciones**
-- Colocador
-- Opuesto
-- 2 Centrales
-- Libero
-- 2 Puntas 
+- Colocador:es el jugador encargado de dirigir el juego y decidir a qué jugador se le entregará el balón para realizar el ataque. Suele ser el jugador número 1 del equipo y se sitúa en la parte trasera del campo.
+- Opuesto:este jugador se coloca en la posición contraria al armador, y es quien se encarga de realizar los ataques más potentes y espectaculares. Suele ser el jugador número 2 del equipo.
+- 2 Centrales:estos jugadores se colocan en el centro del campo y son responsables de bloquear los ataques del equipo contrario. Su papel es fundamental en la defensa, y son los jugadores número 5 y 6 del equipo.
+- 2 Puntas:se trata de los jugadores que se colocan en el frente del campo y son los principales atacantes. Suelen ser los jugadores números 3 y 4 del equipo, y sus ataques son fundamentales para lograr puntos en el juego. 
 
 ##### **Juego**
 
