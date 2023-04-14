@@ -18,10 +18,10 @@ El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los de
 - 2 Centrales
 - Libero
 - 2 Puntas 
-###### **Carrera**
+- 
+###### **Juego**
 
-Actor conocido globalmente por peliculas como [*Forrest Gump*](https://es.wikipedia.org/wiki/Forrest_Gump_(pel%C3%ADcula)), [*La Terminal*](https://es.wikipedia.org/wiki/La_terminal_(pel%C3%ADcula_de_2004)), [*El codigo da Vinci*](https://es.wikipedia.org/wiki/El_c%C3%B3digo_Da_Vinci)  
-Ganador del premio [Oscar](https://es.wikipedia.org/wiki/Premios_%C3%93scar) por su papel en la pelicula *Forrest Gump* del año **1994**
+Para poder jugar voleibol se ocupan **12 jugadores** en total para jugar un partido donde usualmente se juega al ganador de 3 sets, se gana el set a llegar a los 25 puntos gana el set donde solo se puede tocar la bola tres veces por lado si no cometera falta y será punto para el otro equipo
 
 <img src="https://www.portalisimo.com/wp-content/uploads/2017/11/Voleibol-e1512054615116-scaled.jpg" width="300">
 
