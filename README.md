@@ -13,13 +13,11 @@ El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los de
 
 
 **Posiciones**
-
- -Colocador  
- -Opuesto  
- - 2 Centrales
- - Libero
- - 2 Puntas 
-
+- Colocador
+- Opuesto
+- 2 Centrales
+- Libero
+- 2 Puntas 
 ###### **Carrera**
 
 Actor conocido globalmente por peliculas como [*Forrest Gump*](https://es.wikipedia.org/wiki/Forrest_Gump_(pel%C3%ADcula)), [*La Terminal*](https://es.wikipedia.org/wiki/La_terminal_(pel%C3%ADcula_de_2004)), [*El codigo da Vinci*](https://es.wikipedia.org/wiki/El_c%C3%B3digo_Da_Vinci)  
