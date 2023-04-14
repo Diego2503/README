@@ -42,5 +42,5 @@ MUJERES:
 
  [*Video partido de volleyball*](https://www.youtube.com/watch?v=xe7uDlJz8HE)
  
- **Bibliografia**
+ **Bibliografia**  
  Historia del Voleibol - Resumen, origen, creador y reglas. (s. f.). Concepto. https://concepto.de/historia-del-voleibol/
