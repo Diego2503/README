@@ -1,5 +1,5 @@
 ## Voleibol
-![image info](./pictures/Voleibol.jpg)
+!(./pictures/Voleibol.jpg)
 
 *Historia*
 
