@@ -24,14 +24,14 @@ El juego de voleibol es un deporte en el que **dos equipos de seis jugadores** s
 
 Los mejores países en el voleibol varían dependiendo de si se trata de hombres o mujeres, pero algunos de los más destacados son:
 
-HOMBRES:
+HOMBRES:  
 1- Brasil  
 2- Estados Unidos  
 3- Rusia  
 4- Italia  
 5- Polonia  
 
-MUJERES:
+MUJERES:  
 1- China  
 2- Estados Unidos  
 3- Brasil  
