@@ -1,6 +1,5 @@
 ## Volleyball 
 <img src="volleyball.jpg" width="200">
-![Imagen local](img/volleyball.jpg)
 
 *Historia*
 
