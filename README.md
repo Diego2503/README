@@ -18,8 +18,8 @@ El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los de
 - 2 Centrales
 - Libero
 - 2 Puntas 
-- 
-###### **Juego**
+
+##### **Juego**
 
 Para poder jugar voleibol se ocupan **12 jugadores** en total para jugar un partido donde usualmente se juega al ganador de 3 sets, se gana el set a llegar a los 25 puntos gana el set donde solo se puede tocar la bola tres veces por lado si no cometera falta y será punto para el otro equipo
 
