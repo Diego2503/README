@@ -43,4 +43,5 @@ MUJERES:
  [*Video partido de volleyball*](https://www.youtube.com/watch?v=xe7uDlJz8HE)
  
  **Bibliografia**  
- Historia del Voleibol - Resumen, origen, creador y reglas. (s. f.). Concepto. https://concepto.de/historia-del-voleibol/
+ 
+"Historia del voleibol". Autor: Equipo editorial, Etecé. De: Argentina. Para: Concepto.de. Disponible en: https://concepto.de/historia-del-voleibol/. Última edición: 13 de junio de 2022. Consultado: 14 de abril de 2023. Fuente: https://concepto.de/historia-del-voleibol/#ixzz7ystcIQZe
