@@ -1,7 +1,7 @@
 ## Volleyball 
 <img src="volleyball.jpg" width="200">
 
-*Datos de contacto*
+*Historia*
 
 Telefonó: 6320-3956
 
