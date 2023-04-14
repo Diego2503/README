@@ -3,9 +3,14 @@
 
 *Historia*
 
-Telefonó: 6320-3956
+El voleibol fue inventado en 1895 por William G. Morgan, un director de educación física en Holyoke, Massachusetts. Morgan creó el juego como una alternativa al baloncesto, que había sido inventado 4 años antes en Springfield, Massachusetts.
 
-Correo personal: tom.hanks20@gmail.com
+Inicialmente llamado "Mintonette", el juego se jugaba en una cancha de baloncesto, pero con una red de tenis colocada a una altura de 6 pies y 6 pulgadas. El objetivo del juego era pasar la pelota sobre la red de un equipo a otro sin dejarla caer en el suelo. El juego fue renombrado como "voleibol" en 1896.
+
+En 1900, se celebró el primer torneo de voleibol en Springfield, Massachusetts, y más tarde se incluyó en los Juegos Olímpicos de Verano de 1964 en Tokio, Japón.
+
+El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los deportes más populares del mundo. Se juega en todo el mundo en todos los niveles, desde el recreativo hasta los torneos olímpicos.
+
 
 **Áreas de interes**
 
