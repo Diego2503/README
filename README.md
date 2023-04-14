@@ -22,6 +22,22 @@ El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los de
 
 El juego de voleibol es un deporte en el que **dos equipos de seis jugadores** se enfrentan en una cancha dividida por una red. El objetivo del juego es enviar la pelota por encima de la red y hacer que caiga en el campo contrario sin que el equipo contrario pueda devolverla. El juego comienza con un saque y luego los equipos tienen tres toques para pasar la pelota al otro lado de la red. Si el balón toca el suelo del equipo contrario, el equipo que lo hizo gana un punto y el juego continúa. El primer equipo en llegar a 25 puntos (con una ventaja de al menos dos puntos) gana el set. Un partido típico consta de tres sets.
 
+Los mejores países en el voleibol varían dependiendo de si se trata de hombres o mujeres, pero algunos de los más destacados son:
+
+HOMBRES:
+1- Brasil
+2- Estados Unidos
+3- Rusia
+4- Italia
+5- Polonia
+
+MUJERES:
+1- China
+2- Estados Unidos
+3- Brasil
+4- Rusia
+5- Japón
+
 <img src="https://www.portalisimo.com/wp-content/uploads/2017/11/Voleibol-e1512054615116-scaled.jpg" width="300">
 
  [*Video partido de volleyball*](https://www.youtube.com/watch?v=xe7uDlJz8HE)
