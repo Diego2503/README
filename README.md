@@ -13,11 +13,12 @@ El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los de
 
 
 **Posiciones**
+
  -Colocador  
  -Opuesto  
-- 2 Centrales
-- Libero
-- 2 Puntas 
+ - 2 Centrales
+ - Libero
+ - 2 Puntas 
 
 ###### **Carrera**
 
