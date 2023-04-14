@@ -20,7 +20,7 @@ El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los de
 
 ##### **Juego**
 
-El juego de voleibol es un deporte en el que **dos equipos de seis jugadores** se enfrentan en una cancha dividida por una red. El objetivo del juego es enviar la pelota por encima de la red y hacer que caiga en el campo contrario sin que el equipo contrario pueda devolverla. El juego comienza con un saque y luego los equipos tienen tres toques para pasar la pelota al otro lado de la red. Si el balón toca el suelo del equipo contrario, el equipo que lo hizo gana un punto y el juego continúa. El primer equipo en llegar a 25 puntos (con una ventaja de al menos dos puntos) gana el set. Un partido típico consta de tres sets.
+El juego de voleibol es un deporte en el que **dos equipos de seis jugadores** se enfrentan en una cancha dividida por una red. El objetivo del juego es enviar la pelota por encima de la red y hacer que caiga en el campo contrario sin que el equipo contrario pueda devolverla. El juego comienza con un saque y luego los equipos tienen tres toques para pasar la pelota al otro lado de la red. Si el balón toca el suelo del equipo contrario, el equipo que lo hizo gana un punto y el juego continúa. El primer equipo en llegar a 25 puntos (con una ventaja de al menos dos puntos) gana el set. Un partido típico consta de tres sets. Si el partido llega a los cinco sets que es la máxima cantidad de un partido el ganador de ese set será el primero que llegué a las 15 puntos con una diferencia de dos puntos 
 
 Los mejores países en el voleibol varían dependiendo de si se trata de hombres o mujeres, pero algunos de los más destacados son:
 
@@ -44,4 +44,4 @@ MUJERES:
  
  **Bibliografia**  
  
-"Historia del voleibol". Autor: Equipo editorial, Etecé. De: Argentina. Para: Concepto.de. Disponible en: https://concepto.de/historia-del-voleibol/. Última edición: 13 de junio de 2022. Consultado: 14 de abril de 2023. Fuente: https://concepto.de/historia-del-voleibol/#ixzz7ystcIQZe
+"Historia del voleibol". Autor: Equipo editorial, Etecé. De: Argentina. Para: Concepto.de. Disponible en: https://concepto.de/historia-del-voleibol/. Última edición: 13 de junio de 2022. Consultado: 14 de abril de 2023. 
