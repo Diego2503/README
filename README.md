@@ -1,5 +1,5 @@
 ## Volleyball 
-<img src="volleyball,jpg" width="200">
+<img src="volleyball.jpg" width="200">
 
 *Datos de contacto*
 
