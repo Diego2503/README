@@ -1,5 +1,5 @@
 ## Voleibol
-!(./pictures/Voleibol.jpg)
+<img src="tom hanks.jpg" width="200">
 
 *Historia*
 
