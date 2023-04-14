@@ -12,11 +12,13 @@ En 1900, se celebró el primer torneo de voleibol en Springfield, Massachusetts,
 El voleibol ha evolucionado desde sus humildes comienzos, y hoy es uno de los deportes más populares del mundo. Se juega en todo el mundo en todos los niveles, desde el recreativo hasta los torneos olímpicos.
 
 
-**Áreas de interes**
+**Posiciones**
 
--Dirección de peliculas  
--Actuación  
--Creacion de guiones 
+-Colocador  
+-Opuesto  
+- 2 Centrales
+- Libero
+- 2 Puntas 
 
 ###### **Carrera**
 
